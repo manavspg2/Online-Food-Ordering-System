@@ -16,7 +16,7 @@ Functional Requirements:
 
 i. The system must provide an entry page which will be the home page after login. The entry page should display available menu, restaurant information, search and browse by category interface and a customer purchase cart.
 
-Optionally, the database of restaurants may be populated using the API offered by Zomato for a particular city say Kharagpur. URL: https://developers.zomato.com/api
+Optionally, the database of restaurants may be populated using the API offered by Zomato for a particular city . URL: https://developers.zomato.com/api
 
 ii. The system should provide a restaurant/customer registration module.
 
