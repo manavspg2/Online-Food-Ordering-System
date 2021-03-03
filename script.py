@@ -11,5 +11,4 @@ def strTimeProp(start, end, format, prop):
 
 
 def randomDate(start, end, prop):
-    #YYYY-MM-DD HH:MM[:ss[.uuuuuu]][TZ]
     return strTimeProp(start, end, '%Y-%m-%d %I:%M %p', prop)
