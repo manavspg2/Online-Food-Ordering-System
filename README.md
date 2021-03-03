@@ -3,7 +3,7 @@ A food ordering DBMS project
 
 ## Requirements
 
-First create a virtual environment and activate it.  
+First of all create a virtual environment and activate it.  
 Now , write the following two commands (required for recommendation system)  
 ```	
 $ pip install scipy  	
